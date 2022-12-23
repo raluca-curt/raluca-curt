@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=%3Cp%3E+Hello+world!+%3C%2Fp%3E;%3Cp%3E+I'm+Raluca+%3C%2Fp%3E)](https://git.io/typing-svg)
 [![trophy](https://hacked-github-stat-trophies.vercel.app/?username=raluca-curt&title=Commit,MultiLanguage)](https://hacked-github-stat-trophies.vercel.app/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raluca-curt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raluca_curt)](https://github.com/anuraghazra/github-readme-stats)
