@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://hacked-github-stat-trophies.vercel.app/?username=raluca-curt&title=Commit,MultiLanguage)](https://hacked-github-stat-trophies.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raluca-curt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raluca_curt)](https://github.com/anuraghazra/github-readme-stats)
