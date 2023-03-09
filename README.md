@@ -7,7 +7,7 @@
 
 
 ## ⚡ About me
-- 👩🏻‍💻 Passionate developer who enjoys building web applications. 
+- 👩🏻‍💻 Passionate developer who enjoys building applications. 
 - 📚 Graduated [**CS50x 2022**](https://cs50.harvard.edu/x/2022/), Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
 - ⚒ Currently expanding my skills in web development.
 
@@ -15,8 +15,9 @@
 ## 🧰 My toolbox
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-f2cc10?style=for-the-badge&logo=Python)
-![SQLite](https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite)
 ![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/-Django-092e20?style=for-the-badge&logo=django)
+![SQLite](https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite)
 ![Flask](https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=flask)
 
 
